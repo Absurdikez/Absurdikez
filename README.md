@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zekitopcu
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning FastAPI, docker, Flask, elasticsearch
+- 👀 I’m interested in data science and AI
+
