@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zekitopcu
 - 👀 I’m interested in data science and AI
-- Currently AI engineer at Université Paris Cité, UR 7537
+- Currently machine learning & Neuroscience CIFRE/Phd student at Institut of Brain of Paris & Theremia
 - I like playing GO and chess.
