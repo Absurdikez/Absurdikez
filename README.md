@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @zekitopcu
-- 👀 I’m interested in data science and AI
-- Currently machine learning & Neuroscience CIFRE/Phd student at Institut of Brain of Paris & Theremia
+- 👀 I’m interested in data science and AI.
 - I like playing GO and chess.
